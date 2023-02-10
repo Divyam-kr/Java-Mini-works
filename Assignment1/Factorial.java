@@ -54,7 +54,7 @@ public class Factorial
         }
         else if(choice == 4)
         {
-            DataInputStream a2 = new DataInputStream(new FileInputStream("C:\\Users\\nayye\\OneDrive\\Desktop\\JAVA\\input.txt"));
+            DataInputStream a2 = new DataInputStream(new FileInputStream("C:\Users\DELL\Downloads\\JAVA\\input.txt"));
             String s = a2.readLine();
             int n2 = Integer.parseInt(s);
             obj1.fetch_fact(n2);
