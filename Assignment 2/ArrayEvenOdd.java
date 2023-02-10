@@ -49,7 +49,7 @@ class Array_List{
     }
 }
 
-public class ArrayEvenOdd 
+public class Arrayoddeven 
 {
     public static void main(String[] args) {
         
