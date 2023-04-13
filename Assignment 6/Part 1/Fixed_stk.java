@@ -34,4 +34,3 @@ public class Fixed_stk implements Interface_STK {
         System.out.println("\n");
         }
     }
-
